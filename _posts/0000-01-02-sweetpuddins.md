@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Front implies back, self implies other, nothing implies something
 Use the left arrow to go back!
